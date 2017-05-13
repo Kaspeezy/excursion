@@ -1,11 +1,37 @@
-h1 {font-family: Verdana; 
+.title {font-family: Verdana; 
 	font-weight: normal;
 	font-size: 50px;
-	font-color: white;
+	color: white;
 	text-align: center;}
 
-h4 {font-color: Aquamarine;
+.subtitle {color: Aquamarine;
 font-size: 16px;
 text-align: center;
+font-family: Verdana;
+font-weight: normal;
+}
+
+a:link {color: Aquamarine;}
+a:visited {color: Aquamarine;}
+
+body {background-color: black;
+text-align: center;}
+
+.excursion {text-align: center;
+	font-family: Verdana;
+color: Gray; 
+font-size: 21px;
+font-weight: normal;}
+
+.middle {color: white;
+	font-family: Verdana;
+font-weight: 300;
+font-size: 42px;
+text-align: center
+}
+
+.copyright {color: gray;
+font-size: 21px;
+text-align: right;
 font-family: Verdana;
 font-weight: normal;}
